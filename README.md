@@ -29,8 +29,8 @@ Se implemento un modelo relacional de estrella :
 - Tablas Dimensión : Productos, Tiendas , Calendario , Metodo pago
 - Tabla Staging : staging_ventas
 - Relación de [Tablas dimensión] -> [Tabla Hechos] ( 1 a muchos, filtrado unidirecional)
-  
-[Imagen modelo estrella](Images/modelo .png)
+
+[Imagen modelo estrella](Images/modelo.png)
   
 ## KPIS (SQL/Excel)
 ▪️Ventas totales = ingresos acumulados
