@@ -10,6 +10,7 @@ se creo modelo relacional de base de datos,ETL, consultas SQL para KPIs.
 - Identificar productos mas rentables y vendidos
 - Optimizar tiempo con automatización de reportes
 ## Conjunto de datos usados
+
 [clean cafe sales](Data)
 
 Tablas creadas: 
@@ -19,14 +20,18 @@ Tablas creadas:
 - Calendario
 - Tiendas
 - Staging ventas
+  
 [Imagen tablas](Images/tablas.png)
+
 # # Modelado de datos (SQL)
 Se implemento un modelo relacional de estrella :
 - Tabla Hechos : Ventas
 - Tablas Dimensión : Productos, Tiendas , Calendario , Metodo pago
 - Tabla Staging : staging_ventas
 - Relación de [Tablas dimensión] -> [Tabla Hechos] ( 1 a muchos, filtrado unidirecional)
+  
   [Imagen modelo estrella](Images/modelo .png)
+  
 ## KPIS (SQL/Excel)
 ▪️Ventas totales = ingresos acumulados
 ▪️Ticket promedio = total ventas / numero de transacciones
@@ -37,7 +42,9 @@ Se implemento un modelo relacional de estrella :
 - Barras horizontales -> Top productos
 - Segmentadores -> Meses, tienda, Metodo de Pago
 - Kpis -> ventas totales, ticket promedio, cantidad
+  
 [Imagen dashboard](Images/dashboard.png)
+
 ## Automatización macros (VBA)
 - Actualizar dashboard -> Actualiza nuevos datos desde SQL
 - Exportar PDF -> Genera PDF automatico con Fecha actual
