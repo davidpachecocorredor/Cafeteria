@@ -11,6 +11,7 @@ se creo modelo relacional de base de datos,ETL, consultas SQL para KPIs.
 - Optimizar tiempo con automatización de reportes
 ## Conjunto de datos usados
 [clean cafe sales](Data)
+
 Tablas creadas: 
 - Ventas
 - Productos
