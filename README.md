@@ -53,7 +53,9 @@ Se implemento un modelo relacional de estrella :
 - Conectar a Power bi para informes web en tiempo real
 - Utilizar modelos para previsión de ventas
 - Agregar variables para análisis de costos y rentabilidad
+  
 ## Conclusiones del Análisis
+
 - Los productos más vendidos por cantidad y que sostienen el negocio son sándwich, smoothie, salad y cake. Concentrando la mayoría de unidades vendidas.
 - Priorizar en inventario, promociones y exhibición.
 - Se pueden hacer ventas cruzadas para impulsar otros productos, por ejemplo, agregar bebidas o nuevos sabores.
@@ -61,9 +63,13 @@ Se implemento un modelo relacional de estrella :
 En mayo, al ser el de menor ventas, se evaluarán estrategias para evitar caídas, esto por medio de planes de marketing.
 - Las cantidades vendidas se mantienen estables todo el año, exceptuando los picos anteriores; por tanto, la demanda es predecible y se puede planificar la producción, mejorar el control de inventarios.
 - La comida para llevar (takeaway) tiene más porcentaje en ventas que en el local; por lo tanto, el negocio es de alta rotación y rapidez; se pueden dar mejoras en empaques, procesos y combos para llevar.
+- 
 ## Archivos incluidos
+
 [data set] (https://www.kaggle.com/datasets/majeedatbabalola/clean-cafe-sales-dataset)
+
 [dashbord](Excel/cafeteria.xltm)
+
 ## Autor
 David Orlando Pacheco Corredor
 |Analista de Datos | Econometria | BI | Ciencia de Datos| Economía|
