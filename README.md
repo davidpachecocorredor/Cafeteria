@@ -23,7 +23,7 @@ Tablas creadas:
   
 [Imagen tablas](Images/tablas.png)
 
-# # Modelado de datos (SQL)
+## Modelado de datos (SQL)
 Se implemento un modelo relacional de estrella :
 - Tabla Hechos : Ventas
 - Tablas Dimensión : Productos, Tiendas , Calendario , Metodo pago
