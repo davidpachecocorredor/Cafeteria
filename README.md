@@ -63,7 +63,7 @@ Se implemento un modelo relacional de estrella :
 En mayo, al ser el de menor ventas, se evaluarán estrategias para evitar caídas, esto por medio de planes de marketing.
 - Las cantidades vendidas se mantienen estables todo el año, exceptuando los picos anteriores; por tanto, la demanda es predecible y se puede planificar la producción, mejorar el control de inventarios.
 - La comida para llevar (takeaway) tiene más porcentaje en ventas que en el local; por lo tanto, el negocio es de alta rotación y rapidez; se pueden dar mejoras en empaques, procesos y combos para llevar.
-- 
+  
 ## Archivos incluidos
 
 [data set] (https://www.kaggle.com/datasets/majeedatbabalola/clean-cafe-sales-dataset)
