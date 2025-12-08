@@ -54,4 +54,18 @@ Se implemento un modelo relacional de estrella :
 - Utilizar modelos para previsión de ventas
 - Agregar variables para análisis de costos y rentabilidad
 ## Conclusiones del Análisis
+- Los prodcutos mas vendidos por cantidad y sostienen el negocio son: sandwich, smoothie, salad y cake. concentrando la mayoria de unidades vendidas.
+- Priorizar en inventario, promociones y excibición.
+- Se pueden hacer ventas cruzadas para impulsar otros productos ejemplo agregar bebidas o nuevos sabores.
+- Se aprecio a Enero con el mayor numero de ventas lom que nos da oportunidades de campañas especificas
+En Mayo al ser el de menor ventas se evaluaran estrategias para evitar caidas, esto por medio de planes de marketing
+- las cantidades vendidas se mantiene estable todo el año, exceptuando los picos anteriores, por tqanto la demanda es predecible se pude : planificar la producción, mejorar el control de inventarios
+- la Comida para llevar(Takeawat) tiene mas porcentaje en ventas que en el local, por lo tanto el negocio es de alta rotacio n  y rapidez; se puede dar mejoras en empaques, procesos y combos para llevar.
+## Archivos incluidos
+[data set] (https://www.kaggle.com/datasets/majeedatbabalola/clean-cafe-sales-dataset)
+[dashbord](Excel/cafeteria.xltm)
+## Autor
+David Orlando Pacheco Corredor
+|Analista de Datos | Econometria | BI | Ciencia de Datos| Economía|
+
 
